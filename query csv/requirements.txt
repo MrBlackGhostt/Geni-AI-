@@ -1,0 +1,6 @@
+panel
+openai
+langchain_experimental
+pandas
+plotly
+python-dotenv
